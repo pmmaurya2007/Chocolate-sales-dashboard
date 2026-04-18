@@ -19,11 +19,11 @@ This project analyzes chocolate sales data using Excel and Power Query.
 
 📸 Dashboard Preview
 
-"Dashboard" ([PASTE_IMAGE_LINK_HERE](https://drive.google.com/file/d/1_Yz5kker7JMJOatFqj77M5loZGo4xGwi/view?usp=sharing))
+"Dashboard" ([IMAGE_LINK_HERE](https://drive.google.com/file/d/1_Yz5kker7JMJOatFqj77M5loZGo4xGwi/view?usp=sharing))
 
 📂 Download Full Project File
 
-"Click here to download Excel Dashboard" (https://docs.google.com/spreadsheets/d/1cunO9ZvXw7KjR7A08eomez-8gb0xQzJM/edit?usp=drive_link&ouid=111999916214033968861&rtpof=true&sd=true)
+["Click here to download Excel Dashboard" ](https://docs.google.com/spreadsheets/d/1cunO9ZvXw7KjR7A08eomez-8gb0xQzJM/edit?usp=drive_link&ouid=111999916214033968861&rtpof=true&sd=true)
 
 👤 Author
 
